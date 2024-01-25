@@ -127,3 +127,6 @@ JavaScript는 이를 허용합니다
 
 # 스프레드(Spread) 및 레스트(Rest) 연산자의 이해
 [차이점](https://chat.openai.com/c/4851a6d4-70ee-4c6f-b7ce-03c93a7efd7b)  
+
+# Destructuring (구조분해)
+[배열과 객체의 구조분해, 객체를 인자로 받는 함수에서의 구조분해](https://chat.openai.com/c/2fbe5a80-9873-40cd-85eb-05e1efe6cc49)
