@@ -15,3 +15,5 @@ https://academind.com/tutorials
 03-arrow-functions.zip
 [Arrow Functions and "this"](https://academind.com/tutorials/)  
 
+# 개체, 속성 및 메서드 작업
+[Primitive vs Reference Types](https://academind.com/tutorials/reference-vs-primitive-values)
