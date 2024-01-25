@@ -288,3 +288,32 @@ fetchData를 두 번 호출하기 때문입니다
 현재로서는 최소한 한 번 보고
 작동 방식과 활용 방법을 이해할 기회를 드리고 싶습니다
 ]
+
+# 템플릿 리터럴 
+[
+템플릿 리터럴(Template literals)이라는 기능을 종종 사용하게 될 거예요.  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+문자열을 작성하는 다른 방법입니다.
+큰따옴표나 작은따옴표를 사용해
+'A String'
+혹은
+"Another string"
+와 같은 방식으로 표현하거나,
+백틱(`)을 사용해
+`Another way of writing strings`
+와 같은 방식으로 표현합니다.
+왜 문자열을 이런 방식으로 표현할까요?
+이 구문을 사용하면, 문자열에 다양하게 데이터를 추가할 수 있어요.
+const name = "Max";
+const age = 29;
+console.log(`My name is ${name} and I am ${age} years old.`);
+처럼요.
+기존의 문자열 결합 방식보다 짧고 읽기 쉽습니다.
+const name = "Max";
+const age = 29;
+console.log("My name is " + name + " and I am " + age + " years old.");
+와 비교해서 말이죠.
+]
+
+# 유용한 자료 및 링크
+[MDN JavaScript 튜토리얼](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+[Academind JS 자료](https://academind.com/learn/javascript)
