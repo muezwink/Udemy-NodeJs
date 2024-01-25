@@ -317,3 +317,6 @@ console.log("My name is " + name + " and I am " + age + " years old.");
 # 유용한 자료 및 링크
 [MDN JavaScript 튜토리얼](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 [Academind JS 자료](https://academind.com/learn/javascript)
+
+# Node 서버 생성
+[nodejs의 코어모듈과 라이브러리](https://chat.openai.com/c/0b4047bc-4a2b-4fa6-a815-78a5d4d99466)
