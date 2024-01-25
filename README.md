@@ -320,3 +320,9 @@ console.log("My name is " + name + " and I am " + age + " years old.");
 
 # Node 서버 생성
 [nodejs의 코어모듈과 라이브러리](https://chat.openai.com/c/0b4047bc-4a2b-4fa6-a815-78a5d4d99466)
+
+# 요청과 응답 헤더
+[요청과 응답 헤더](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+
+# 라우터 요청
+
