@@ -681,3 +681,18 @@ module.exports를 사용해서 내보내거나
 Node.js 이벤트 루프 추가자료: https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/  
 블로킹 및 논블로킹 코드:https://nodejs.org/en/docs/guides/dont-block-the-event-loop/  
 ]
+
+# 섹션 4: 개선된 개발 워크플로우 및 디버깅 > 모듈소개
+[  
+지금까지 Node.js를 어느 정도 자세히 들여다보고  
+여러 작업을 해봤으니  
+한 발짝 뒤로 물러나  
+좀 더 개발을 쉽게 하면서  
+속도를 높일 수 있는 방법을 알아봅시다  
+가장 중요하게 Node.js 앱을 디버그 하거나  
+Node.js 앱에 일어나고 있는 일을  
+알 수 있도록 하는 몇 가지 툴을 배워볼 거예요  
+이번 모듈에서는  
+Node.js 앱을 효율적으로 작성할 수 있는  
+비법과 요령을 얻도록 도와드릴게요  
+]  
