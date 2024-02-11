@@ -9,7 +9,6 @@ const requestHandler = (req, res) => {
     res.write(
       '<body><form action="/message" method="POST"><input type="text" name="message"><button type="submit">Send</button></form></body>'
     );
-  console.log("--------------")
     res.write('</html>');
     return res.end();
   }
